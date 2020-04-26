@@ -10,7 +10,7 @@
     "navigationBarTitleText": "Super雷",
     "backgroundColor": "orange",
     "backgroundTextStyle": "dark",
-    "enablePullDownRefresh": true
+    "enablePullDownRefresh": false
   },
   "tabBar": {
     "selectedColor": "#ff5777",
